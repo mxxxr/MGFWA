@@ -21,7 +21,6 @@ benchmark = {
     "cec2017": CEC17
 }[args.benchmark]()
 
-filename = "results/MGFWA/13MGFWA_standard.txt"
 for fun_id in range(benchmark.func_num):
     print("Function #{}, Optimizing...".format(fun_id+1))
     alg.load_prob(evaluator=benchmark.funcs[fun_id])
