@@ -9,10 +9,7 @@ if _swig_python_version_info < (2, 7, 0):
     raise RuntimeError("Python 2.7 or later required")
 
 # Import the low-level C/C++ module
-if __package__ or "." in __name__:
-    import _cec17
-else:
-    import _cec17
+import _cec17
 
 try:
     import builtins as __builtin__
