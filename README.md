@@ -1,5 +1,8 @@
 # Multi-Guiding Spark Fireworks Algorithm
 
+### NEWS
+✨ We have released a GPU-accelerated version of MGFWA (https://arxiv.org/abs/2501.03944), available in ```alg/GPU-MGFWA.py```. Please note that a custom neural network is required to fully utilize this optimization. 
+***
 This repository is the official implementation of the paper [Multi-Guiding Spark Fireworks Algorithm: Solving Multimodal Functions by Multiple Guiding Sparks in Fireworks Algorithm](https://www.sciencedirect.com/science/article/pii/S2210650223002304). The proposed method is powerful on multimodal global optimization, which is an efficient, performant, and state-of-the-art Fireworks Algorithm (FWA🎇) variant and easy to follow. Have fun enjoying it!
 
 ## Installation 💡
