@@ -72,7 +72,17 @@ If you found this repository useful, please consider citing our work:
   url = {https://www.sciencedirect.com/science/article/pii/S2210650223002304}
 }
 ```
-
+```
+@misc{meng2025gpuimplementationmultiguidingspark,
+      title={A GPU Implementation of Multi-Guiding Spark Fireworks Algorithm for Efficient Black-Box Neural Network Optimization}, 
+      author={Xiangrui Meng and Ying Tan},
+      year={2025},
+      eprint={2501.03944},
+      archivePrefix={arXiv},
+      primaryClass={cs.NE},
+      url={https://arxiv.org/abs/2501.03944}, 
+}
+```
 ## License
 
 This repository is licensed under [Apache 2.0](LICENSE)
